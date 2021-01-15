@@ -50,3 +50,7 @@ body {
   .marg {
     margin: auto;
   }
+
+  #input_message {
+      display: none;
+  }
